@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for test</description>
+        <name>test_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:01:37</sys_created_on>
+        <sys_id>aad3612c2f211110e3e857892799b691</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_rte_ihub</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_aad3612c2f211110e3e857892799b691</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:01:37</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_robust_import_set_transformer_aad3612c2f211110e3e857892799b691</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for test</description><name>test_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 02:01:37</sys_created_on><sys_id>aad3612c2f211110e3e857892799b691</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test_rte_ihub</sys_name><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_robust_import_set_transformer_aad3612c2f211110e3e857892799b691</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 02:01:37</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>-775364749</payload_hash>
+        <record_name>test_rte_ihub</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:04:04</sys_created_on>
+        <sys_id>a664a92c2f211110e3e857892799b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182c8714c9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:04:04</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>6ad3612cc7211110285164986ecba793</update_guid>
+        <update_guid_history>6ad3612cc7211110285164986ecba793:1218340555,6ad3612cc7211110285164986ecba793:1218340555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:04:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>04dec815707d4631803987064a5a9749</sys_id>
+        <sys_metadata>aad3612c2f211110e3e857892799b691</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_rte_ihub</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_aad3612c2f211110e3e857892799b691</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_aad3612c2f211110e3e857892799b691">a664a92c2f211110e3e857892799b677</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:04:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

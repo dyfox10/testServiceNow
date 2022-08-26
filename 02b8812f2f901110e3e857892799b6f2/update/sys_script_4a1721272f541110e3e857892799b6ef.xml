@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_839221_box_boxfolder</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>CreateFolder</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	gs.info("#CreateFolder current = name:" + current.folder_name);
+	// Add y2our code here
+	var accessToken = CallGetAccessToken();
+	gs.info("#CreateFolder AccessToken = " + accessToken);
+	var res = CallCreateFolder(current.folder_name, current.parent, accessToken);
+	gs.info("#CreateFolder result = " + res);
+	var jRes = JSON.parse(res);
+	if(jRes.type === "error"){		
+		gs.addErrorMessage(jRes.message);
+		current.setAbortAction(true);
+	}
+	current.folder_id = jRes.id;
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 06:46:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a1721272f541110e3e857892799b6ef</sys_id>
+        <sys_mod_count>40</sys_mod_count>
+        <sys_name>CreateFolder</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_script_4a1721272f541110e3e857892799b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 07:22:39</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=4a1721272f541110e3e857892799b6ef"/>
+</record_update>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0d0bf8b62f241110e3e857892799b61e" sys_domain="global" table="x_839221_box_boxcollaboration" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>folder_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-11 05:46:46</sys_created_on>
+            <sys_id>5d0b30f62f241110e3e857892799b686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_839221_box_boxcollaboration" sys_domain="global" view="Default view">0d0bf8b62f241110e3e857892799b61e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-11 05:46:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_mail</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-11 05:46:46</sys_created_on>
+            <sys_id>d10b30f62f241110e3e857892799b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_839221_box_boxcollaboration" sys_domain="global" view="Default view">0d0bf8b62f241110e3e857892799b61e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-11 05:46:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>role</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-11 05:46:46</sys_created_on>
+            <sys_id>550b30f62f241110e3e857892799b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_839221_box_boxcollaboration" sys_domain="global" view="Default view">0d0bf8b62f241110e3e857892799b61e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-11 05:46:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>collaboration_id</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-11 06:09:44</sys_created_on>
+            <sys_id>a940c53e2f241110e3e857892799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_839221_box_boxcollaboration" sys_domain="global" view="Default view">0d0bf8b62f241110e3e857892799b61e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-11 06:09:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_839221_box_boxcollaboration</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-11 05:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d0bf8b62f241110e3e857892799b61e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_839221_box_boxcollaboration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+            <sys_update_name>sys_ui_section_0d0bf8b62f241110e3e857892799b61e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-11 05:46:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

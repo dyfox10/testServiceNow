@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+       "item": {&#13;
+         "type": "folder",&#13;
+         "id": "${folderId}"&#13;
+       },&#13;
+       "accessible_by": {&#13;
+         "type": "user",&#13;
+         "login": "${userMail}"&#13;
+       },&#13;
+       "role": "${role}"&#13;
+ }</content>
+        <function_name>CreateCollaboration</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>CreateCollaboration [ CreateCollaboration ]</qualified_name>
+        <rest_endpoint>https://api.box.com/2.0/collaborations</rest_endpoint>
+        <rest_message display_value="CreateCollaboration">99f141be2f241110e3e857892799b61b</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 06:17:39</sys_created_on>
+        <sys_id>6912c1be2f241110e3e857892799b60a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CreateCollaboration</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_6912c1be2f241110e3e857892799b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 06:35:57</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

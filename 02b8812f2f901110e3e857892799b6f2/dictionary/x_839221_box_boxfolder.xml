@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BoxFolder" max_length="40" name="x_839221_box_boxfolder" sizeclass="1" text_index="true" type="collection">
+        <element default="1" display="true" label="Active" mandatory="true" max_length="1" name="active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="400" name="description" type="string"/>
+        <element label="Folder Id" max_length="80" name="folder_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Folder name" mandatory="true" max_length="80" name="folder_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent folder id" max_length="80" name="parent" type="string"/>
+    </element>
+</database>

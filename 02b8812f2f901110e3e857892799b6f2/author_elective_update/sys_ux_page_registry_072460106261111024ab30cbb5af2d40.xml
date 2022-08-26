@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>472460106b611110f1d13a55e8bd2340</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>box</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 02:44:57</sys_created_on>
+        <sys_id>072460106261111024ab30cbb5af2d40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_ux_page_registry_072460106261111024ab30cbb5af2d40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-22 02:44:57</sys_updated_on>
+        <title>Box</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_ux_page_registry_072460106261111024ab30cbb5af2d40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>472460106b611110f1d13a55e8bd2340</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>box</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-22 02:44:57</sys_created_on><sys_id>072460106261111024ab30cbb5af2d40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Box</sys_name><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_ux_page_registry_072460106261111024ab30cbb5af2d40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-22 02:44:57</sys_updated_on><title>Box</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-2120137069</payload_hash>
+        <record_name>Box</record_name>
+        <reverted_from/>
+        <source>fd5ec3e22f001110e3e857892799b637</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-16 01:20:32</sys_created_on>
+        <sys_id>f9da966c2fe11110e3e857892799b691</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1816a18ff000000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX アプリケーション</type>
+        <update_guid>b9da966c8ee111100729685f04c9aa91</update_guid>
+        <update_guid_history>b9da966c8ee111100729685f04c9aa91:-2120137069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 06:01:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0f4acabf1bb84353825b5086ea261351</sys_id>
+        <sys_metadata>072460106261111024ab30cbb5af2d40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_072460106261111024ab30cbb5af2d40</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_072460106261111024ab30cbb5af2d40">f9da966c2fe11110e3e857892799b691</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 06:01:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

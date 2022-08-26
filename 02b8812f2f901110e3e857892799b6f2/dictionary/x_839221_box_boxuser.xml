@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BoxUser" max_length="40" name="x_839221_box_boxuser" sizeclass="3" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="80" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Sys User" max_length="32" name="sys_user" reference="sys_user" type="reference"/>
+        <element label="User Id" max_length="80" name="user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User mail" mandatory="true" max_length="80" name="user_mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User name" mandatory="true" max_length="80" name="user_name" type="string"/>
+        <index name="index">
+            <element name="sys_user"/>
+        </index>
+    </element>
+</database>

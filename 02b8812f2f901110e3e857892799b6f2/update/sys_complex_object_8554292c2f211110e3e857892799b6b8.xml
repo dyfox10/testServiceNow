@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDc154292c3e211110fe7bab2a3b6d39b8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>02b8812f2f901110e3e857892799b6f2</scope_name>
+        <serialized_content>{"FlowDesigner:FDc154292c3e211110fe7bab2a3b6d39b8":{"u_a":"Integer","u_a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"A\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_b":"Integer","u_b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"B\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:FDc154292c3e211110fe7bab2a3b6d39b8.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"FDc154292c3e211110fe7bab2a3b6d39b8\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:03:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8554292c2f211110e3e857892799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc154292c3e211110fe7bab2a3b6d39b8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_complex_object_8554292c2f211110e3e857892799b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:03:42</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

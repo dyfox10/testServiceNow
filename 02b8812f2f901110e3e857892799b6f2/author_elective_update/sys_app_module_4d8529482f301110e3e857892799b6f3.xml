@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Incident">dead1309c611228701e2bda7b4252474</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SlackIncidents</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_839221_box_slackincident</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_839221_box.slackincident_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 06:04:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d8529482f301110e3e857892799b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SlackIncidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_app_module_4d8529482f301110e3e857892799b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 06:04:50</sys_updated_on>
+        <timeline_page/>
+        <title>SlackIncidents</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_app_module_4d8529482f301110e3e857892799b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Incident">dead1309c611228701e2bda7b4252474</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>SlackIncidents</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_839221_box_slackincident</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_839221_box.slackincident_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-15 06:04:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4d8529482f301110e3e857892799b6f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SlackIncidents</sys_name><sys_overrides/><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_app_module_4d8529482f301110e3e857892799b6f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-15 06:04:50</sys_updated_on><timeline_page/><title>SlackIncidents</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1787809248</payload_hash>
+        <record_name>SlackIncidents</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 06:04:51</sys_created_on>
+        <sys_id>cd8529482f301110e3e857892799b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1820075b8400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 06:04:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>09852948ac3011103172a955d087f9f6</update_guid>
+        <update_guid_history>09852948ac3011103172a955d087f9f6:-1787809248</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SlackIncidents">32399e692f301110e3e857892799b66a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-20 01:41:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1246524e045e4717965633de59812a79</sys_id>
+        <sys_metadata>4d8529482f301110e3e857892799b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SlackIncidents</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_app_module_4d8529482f301110e3e857892799b6f3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4d8529482f301110e3e857892799b6f3">cd8529482f301110e3e857892799b6f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-20 01:41:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

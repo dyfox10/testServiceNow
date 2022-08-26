@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="opration" table="x_839221_box_boxfolder" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>opration</element>
+            <name>x_839221_box_boxfolder</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-07 03:15:23</sys_created_on>
+            <sys_id>b002f3952f245110e3e857892799b675</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>opration</sys_name>
+            <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+            <sys_update_name>sys_choice_x_839221_box_boxfolder_opration</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-07 03:15:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>opration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>create</label>
+            <language>en</language>
+            <name>x_839221_box_boxfolder</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-07 03:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c02f3952f245110e3e857892799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-07 03:15:23</sys_updated_on>
+            <value>create</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>opration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>update</label>
+            <language>en</language>
+            <name>x_839221_box_boxfolder</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-07 03:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b802f3952f245110e3e857892799b676</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-07 03:15:23</sys_updated_on>
+            <value>update</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>opration</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>delete</label>
+            <language>en</language>
+            <name>x_839221_box_boxfolder</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-07 03:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3802f3952f245110e3e857892799b677</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-07 03:15:23</sys_updated_on>
+            <value>delete</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

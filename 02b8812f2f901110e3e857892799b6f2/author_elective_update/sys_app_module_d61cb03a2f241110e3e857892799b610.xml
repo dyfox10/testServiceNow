@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Box">685abc762f241110e3e857892799b6e3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>BoxCollaborations</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 05:52:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d61cb03a2f241110e3e857892799b610</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BoxCollaborations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_app_module_d61cb03a2f241110e3e857892799b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 05:52:59</sys_updated_on>
+        <timeline_page/>
+        <title>BoxCollaborations</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_app_module_d61cb03a2f241110e3e857892799b610</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Box">685abc762f241110e3e857892799b6e3</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>BoxCollaborations</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-11 05:52:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d61cb03a2f241110e3e857892799b610</sys_id><sys_mod_count>1</sys_mod_count><sys_name>BoxCollaborations</sys_name><sys_overrides/><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_app_module_d61cb03a2f241110e3e857892799b610</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-11 05:52:59</sys_updated_on><timeline_page/><title>BoxCollaborations</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1171731782</payload_hash>
+        <record_name>BoxCollaborations</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 05:52:59</sys_created_on>
+        <sys_id>d47cb03a2f241110e3e857892799b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181ebd16cb10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 05:52:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>107cb03ad024111093f39ca9360c2a3b</update_guid>
+        <update_guid_history>107cb03ad024111093f39ca9360c2a3b:1171731782,005c34f69f24111025d959915a6cdaa4:-2003652548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="BoxCollaborations">14cc383a2f241110e3e857892799b651</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 05:54:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>c531681776094b3ab00e9097727709c4</sys_id>
+        <sys_metadata>d61cb03a2f241110e3e857892799b610</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BoxCollaborations</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_app_module_d61cb03a2f241110e3e857892799b610</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d61cb03a2f241110e3e857892799b610">d47cb03a2f241110e3e857892799b63b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 05:54:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

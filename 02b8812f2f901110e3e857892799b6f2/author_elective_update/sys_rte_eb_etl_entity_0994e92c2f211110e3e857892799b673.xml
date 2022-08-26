@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:04:48</sys_created_on>
+        <sys_id>0994e92c2f211110e3e857892799b673</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="test_etl_ihub">0994e92c2f211110e3e857892799b66f</sys_rte_eb_definition>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_0994e92c2f211110e3e857892799b673</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:04:48</sys_updated_on>
+        <table>x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</table>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_rte_eb_etl_entity_0994e92c2f211110e3e857892799b673</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</name><parent_entity/><parent_id_field/><path/><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 02:04:48</sys_created_on><sys_id>0994e92c2f211110e3e857892799b673</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</sys_name><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_rte_eb_definition display_value="test_etl_ihub">0994e92c2f211110e3e857892799b66f</sys_rte_eb_definition><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_rte_eb_etl_entity_0994e92c2f211110e3e857892799b673</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 02:04:48</sys_updated_on><table>x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</table></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>1034325684</payload_hash>
+        <record_name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:04:48</sys_created_on>
+        <sys_id>cd94e92c2f211110e3e857892799b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182c871f7330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:04:48</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>0994e92c8c211110ce60dd127ea71674</update_guid>
+        <update_guid_history>0994e92c8c211110ce60dd127ea71674:1034325684</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-25 04:05:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>01fef18d5d6b466cb5cb123f86d367c4</sys_id>
+        <sys_metadata>0994e92c2f211110e3e857892799b673</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_839221_box_ihub_import_bfb2eda82f211110e3e857892799b674</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_0994e92c2f211110e3e857892799b673</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_0994e92c2f211110e3e857892799b673">cd94e92c2f211110e3e857892799b674</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-25 04:05:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

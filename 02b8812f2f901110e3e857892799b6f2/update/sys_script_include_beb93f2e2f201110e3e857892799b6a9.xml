@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_839221_box.CallCreateUser</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>CallCreateUser</name>
+        <script><![CDATA[function CallCreateUser(userName, userMail, token){
+		try { 
+			var r = new sn_ws.RESTMessageV2('x_839221_box.CreateUser', 'CreateUser');			
+			r.setRequestHeader("Authorization","Bearer "+token);
+			r.setStringParameterNoEscape('userName', userName);
+			r.setStringParameterNoEscape('userMail', userMail);
+			var response = r.executeAsync();
+			var responseBody = response.getBody();
+			var httpStatus = response.getStatusCode();
+			return responseBody;
+		}
+		catch(ex) {
+			var message = ex.message;
+			return "";
+		}
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 01:02:55</sys_created_on>
+        <sys_id>beb93f2e2f201110e3e857892799b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CallCreateUser</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_script_include_beb93f2e2f201110e3e857892799b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 01:02:55</sys_updated_on>
+    </sys_script_include>
+</record_update>

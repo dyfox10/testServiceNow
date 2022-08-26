@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>mjq2877zjav974359twp52wt6nel0ftq</client_id>
+        <client_secret>﷞﷟﷒e4cbebae2f041110e3e857892799b6c9﷬﷔1﷬﷭dHFJJUg4h6wC2nHPvccMDw==SfaiObp3xFch5HhDCzxsfzryCd780vPWMLXg23CMK26Qank2WaS7lNub-o2T8qfB﷮﷯</client_secret>
+        <client_uuid>d6946d2f2f141110e3e857892799b6cc</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>Box_PoC</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev51618.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 06:33:33</sys_created_on>
+        <sys_id>5a946d2f2f141110e3e857892799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box_PoC</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>oauth_entity_5a946d2f2f141110e3e857892799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 06:33:33</sys_updated_on>
+        <token_url>https://api.box.com/oauth2/token?client_id=mjq2877zjav974359twp52wt6nel0ftq&amp;client_secret=hriVPrCkmyO6YoMSQ9iPcnXpaqvaD4rL&amp;grant_type=client_credentials&amp;box_subject_type=enterprise&amp;box_subject_id=906773832</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

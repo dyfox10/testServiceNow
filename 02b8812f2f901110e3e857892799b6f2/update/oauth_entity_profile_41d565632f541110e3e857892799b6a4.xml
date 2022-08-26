@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>client_credentials</grant_type>
+        <jwt_provider/>
+        <name>Box_PoC default_profile</name>
+        <oauth_entity display_value="Box_PoC">5a946d2f2f141110e3e857892799b6cc</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 06:33:33</sys_created_on>
+        <sys_id>41d565632f541110e3e857892799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box_PoC default_profile</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>oauth_entity_profile_41d565632f541110e3e857892799b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 06:33:33</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

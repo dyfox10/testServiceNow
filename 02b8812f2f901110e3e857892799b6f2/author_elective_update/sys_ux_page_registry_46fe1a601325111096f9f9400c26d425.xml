@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>f5fed6602f251110e3e857892799b6cb</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>boxtest</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-23 06:20:07</sys_created_on>
+        <sys_id>46fe1a601325111096f9f9400c26d425</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_ux_page_registry_46fe1a601325111096f9f9400c26d425</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-23 06:20:07</sys_updated_on>
+        <title>Box</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_ux_page_registry_46fe1a601325111096f9f9400c26d425</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>f5fed6602f251110e3e857892799b6cb</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>boxtest</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-08-23 06:20:07</sys_created_on><sys_id>46fe1a601325111096f9f9400c26d425</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Box</sys_name><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_ux_page_registry_46fe1a601325111096f9f9400c26d425</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-08-23 06:20:07</sys_updated_on><title>Box</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-491819952</payload_hash>
+        <record_name>Box</record_name>
+        <reverted_from/>
+        <source>fd5ec3e22f001110e3e857892799b637</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-16 01:20:32</sys_created_on>
+        <sys_id>2ff1505d2fa11110e3e857892799b6e7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1816a18ff000000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>ebf1505da9a111109fce955e17347ce7</update_guid>
+        <update_guid_history>ebf1505da9a111109fce955e17347ce7:-491819952</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 03:59:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>4b1cfc9a1afc4fccb7ef354f98526a21</sys_id>
+        <sys_metadata>46fe1a601325111096f9f9400c26d425</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Box</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_46fe1a601325111096f9f9400c26d425</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_46fe1a601325111096f9f9400c26d425">2ff1505d2fa11110e3e857892799b6e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 03:59:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

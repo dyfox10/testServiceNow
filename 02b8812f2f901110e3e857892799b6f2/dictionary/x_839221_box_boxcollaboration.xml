@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BoxCollaboration" max_length="40" name="x_839221_box_boxcollaboration" sizeclass="0" text_index="true" type="collection">
+        <element label="Collaboration Id" max_length="80" name="collaboration_id" type="string"/>
+        <element label="Folder Id" mandatory="true" max_length="80" name="folder_id" type="string"/>
+        <element choice="3" default="editor" label="Role" mandatory="true" max_length="80" name="role" type="string">
+            <choice>
+                <element inactive_on_update="false" label="editor" sequence="0" value="editor"/>
+                <element inactive_on_update="false" label="viewer" sequence="1" value="viewer"/>
+                <element inactive_on_update="false" label="previewer" sequence="2" value="previewer"/>
+                <element inactive_on_update="false" label="uploader" sequence="3" value="uploader"/>
+            </choice>
+        </element>
+        <element label="User Mail" mandatory="true" max_length="80" name="user_mail" type="string"/>
+    </element>
+</database>

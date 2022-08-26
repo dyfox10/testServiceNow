@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="99" text_index="true" type="collection">
+        <element label="slack_thread_ts" max_length="80" name="x_839221_box_slack_thread_ts" type="string"/>
+    </element>
+</database>

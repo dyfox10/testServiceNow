@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>FDc333e5e881211110ce23c4bc06483f44</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>02b8812f2f901110e3e857892799b6f2</scope_name>
+        <serialized_content>{"FlowDesigner:FDc333e5e881211110ce23c4bc06483f44":{"u_a":"Integer","u_a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"A\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_b":"Integer","u_b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"B\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:FDc333e5e881211110ce23c4bc06483f44.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"FDc333e5e881211110ce23c4bc06483f44\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 01:58:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4733e5e82f211110e3e857892799b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc333e5e881211110ce23c4bc06483f44</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_complex_object_4733e5e82f211110e3e857892799b644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 01:58:55</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_complex_object_4733e5e82f211110e3e857892799b644</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>FDc333e5e881211110ce23c4bc06483f44</name><namespace>FlowDesigner</namespace><scope_name>02b8812f2f901110e3e857892799b6f2</scope_name><serialized_content>{"FlowDesigner:FDc333e5e881211110ce23c4bc06483f44":{"u_a":"Integer","u_a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"A\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_b":"Integer","u_b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"B\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:FDc333e5e881211110ce23c4bc06483f44.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"FDc333e5e881211110ce23c4bc06483f44\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 01:58:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4733e5e82f211110e3e857892799b644</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FDc333e5e881211110ce23c4bc06483f44</sys_name><sys_overrides/><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_complex_object_4733e5e82f211110e3e857892799b644</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 01:58:55</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>695815973</payload_hash>
+        <record_name>FDc333e5e881211110ce23c4bc06483f44</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 01:58:55</sys_created_on>
+        <sys_id>0f33e5e82f211110e3e857892799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182c86c96420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 01:58:55</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>4733e5e8ba211110a7adef0f19662d46</update_guid>
+        <update_guid_history>4733e5e8ba211110a7adef0f19662d46:695815973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:03:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>732c290182f447da92877872d600b924</sys_id>
+        <sys_metadata>4733e5e82f211110e3e857892799b644</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc333e5e881211110ce23c4bc06483f44</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_complex_object_4733e5e82f211110e3e857892799b644</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_4733e5e82f211110e3e857892799b644">0f33e5e82f211110e3e857892799b646</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:03:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>parameter_screen</field>
+        <name>Parameter Screen</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:01:38</sys_created_on>
+        <sys_id>f2d3612c2f211110e3e857892799b6ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parameter Screen</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="test_etl_ihub">e2d3612c2f211110e3e857892799b68f</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_sys_sg_write_back_action_item">f2d3612c2f211110e3e857892799b69b</sys_rte_eb_entity>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_f2d3612c2f211110e3e857892799b6ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:01:38</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Box">02b8812f2f901110e3e857892799b6f2</application>
+        <file_path/>
+        <instance_id>b0f7dc57db2813044f035d00cf96195f</instance_id>
+        <instance_name>dev51618</instance_name>
+        <name>sys_rte_eb_etl_field_f2d3612c2f211110e3e857892799b6ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>parameter_screen</field><name>Parameter Screen</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-23 02:01:38</sys_created_on><sys_id>f2d3612c2f211110e3e857892799b6ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Parameter Screen</sys_name><sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package><sys_policy/><sys_rte_eb_definition display_value="test_etl_ihub">e2d3612c2f211110e3e857892799b68f</sys_rte_eb_definition><sys_rte_eb_entity display_value="Target_sys_sg_write_back_action_item">f2d3612c2f211110e3e857892799b69b</sys_rte_eb_entity><sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope><sys_update_name>sys_rte_eb_etl_field_f2d3612c2f211110e3e857892799b6ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-23 02:01:38</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-1306641443</payload_hash>
+        <record_name>Parameter Screen</record_name>
+        <reverted_from/>
+        <source>8ab8c52b2fd01110e3e857892799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:01:38</sys_created_on>
+        <sys_id>f6d3612c2f211110e3e857892799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182c86f11b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:01:38</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>32d3612c9c211110922ea37e0ab985af</update_guid>
+        <update_guid_history>32d3612c9c211110922ea37e0ab985af:-1306641443</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 02:04:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>4f14728a4b964c629b97fc3851d62fc1</sys_id>
+        <sys_metadata>f2d3612c2f211110e3e857892799b6ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parameter Screen</sys_name>
+        <sys_package display_value="Box" source="x_839221_box">02b8812f2f901110e3e857892799b6f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Box">02b8812f2f901110e3e857892799b6f2</sys_scope>
+        <sys_scope_delete display_value="">8877d6d473784690a8a25b31bf83b100</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_f2d3612c2f211110e3e857892799b6ae</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_f2d3612c2f211110e3e857892799b6ae">f6d3612c2f211110e3e857892799b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 02:04:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
